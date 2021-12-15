@@ -13,6 +13,7 @@ __Dynamic Neural Network for Lossy-to-Lossless Image Coding__
 </code></pre>
 
 __Optimized Lifting Scheme Based on a Dynamical Fully Connected Network for Image Coding__
+<pre><code>
 @inproceedings{Dardouri_icip2020,
 	author               = {T. Dardouri and M. Kaaniche and A. Benazza-Benyahia and J.-C. Pesquet},
 	booktitle            = {IEEE International Conference on Image Processing},
@@ -22,3 +23,4 @@ __Optimized Lifting Scheme Based on a Dynamical Fully Connected Network for Imag
 	year                 = {2020},
 	address              = {Abu Dhabi, United Arab Emirates}
 }
+</code></pre>

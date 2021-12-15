@@ -1,5 +1,6 @@
 # Citation
 >if you use this code for your research, please cite this paper:
+>
 @ARTICLE{9646488,
   author={Dardouri, Tassnim and Kaaniche, Mounir and Benazza-Benyahia, Amel and Pesquet, Jean-Christophe},
   journal={IEEE Transactions on Image Processing}, 

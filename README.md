@@ -1,5 +1,5 @@
 # Paper
-Tensorflow implementation of _Dynamic Neural Network for Lossy-to-Lossless Image Coding_
+Tensorflow implementation of __Dynamic Neural Network for Lossy-to-Lossless Image Coding__
 # Citation
 >if you use this code for your research, please cite this paper:
 >
